@@ -78,5 +78,8 @@ houseprice\_prediction/
 
 &nbsp;  git clone https://github.com/Darshanns7/houseprice\_prediction.git
 
+### Streamlit Live Demo
+- Try the interactive app here: [Streamlit Live Demo](https://share.streamlit.io/your-username/houseprice_prediction/main/app.py)
+- Enter house features to get predicted prices interactively.
 
 
